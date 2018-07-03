@@ -1,0 +1,9 @@
+[package]
+name = "badhttp-rs"
+version = "0.1.0"
+authors = ["Chris West (Faux) <git@goeswhere.com>"]
+
+[dependencies]
+failure = "0.1"
+httparse = "1.3"
+url = "1.7"
